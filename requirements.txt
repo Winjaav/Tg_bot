@@ -1,0 +1,7 @@
+telebot~=0.0.5
+pyTelegramBotAPI~=4.26.0
+pytz~=2025.2
+ollama~=0.4.8
+
+#напишите pip install -r requirements.txt в терминал
+
